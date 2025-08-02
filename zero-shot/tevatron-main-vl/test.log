@@ -1,0 +1,37 @@
+Qwen2.5-VL-7B-Instruct
+CodeSearchNet/go
+====== Evaluation
+ndcg_cut_10           	all	0.1585
+CodeSearchNet-ccr/go
+====== Evaluation
+ndcg_cut_10           	all	0.1862
+CodeSearchNet/java
+====== Evaluation
+ndcg_cut_10           	all	0.1642
+CodeSearchNet-ccr/java
+====== Evaluation
+ndcg_cut_10           	all	0.2198
+CodeSearchNet/javascript
+====== Evaluation
+ndcg_cut_10           	all	0.1577
+CodeSearchNet-ccr/javascript
+====== Evaluation
+ndcg_cut_10           	all	0.2420
+CodeSearchNet/php
+====== Evaluation
+ndcg_cut_10           	all	0.1007
+CodeSearchNet-ccr/php
+====== Evaluation
+ndcg_cut_10           	all	0.1274
+CodeSearchNet/python
+====== Evaluation
+ndcg_cut_10           	all	0.5088
+CodeSearchNet-ccr/python
+====== Evaluation
+ndcg_cut_10           	all	0.2542
+CodeSearchNet/ruby
+====== Evaluation
+ndcg_cut_10           	all	0.1502
+CodeSearchNet-ccr/ruby
+====== Evaluation
+ndcg_cut_10           	all	0.2655

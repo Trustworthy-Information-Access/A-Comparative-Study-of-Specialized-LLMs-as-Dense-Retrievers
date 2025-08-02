@@ -1,0 +1,32 @@
+/root/paddlejob/workspace/env_run/model/Qwen2.5-VL-7B-Instruct
+====== encode query
+====== encode corpus
+{'NDCG@1': 0.27636, 'NDCG@5': 0.44779, 'NDCG@10': 0.48756, 'NDCG@50': 0.5298, 'NDCG@100': 0.53644, 'NDCG@1000': 0.54327, 'MAP@1': 0.26894, 'MAP@5': 0.39427, 'MAP@10': 0.41116, 'MAP@50': 0.42117, 'MAP@100': 0.42178, 'MAP@1000': 0.42208, 'Recall@1': 0.26894, 'Recall@5': 0.60103, 'Recall@10': 0.72165, 'Recall@50': 0.90326, 'Recall@100': 0.94311, 'Recall@1000': 0.99391, 'MRR@1': 0.27636, 'MRR@5': 0.40104, 'MRR@10': 0.41716, 'MRR@50': 0.42649, 'MRR@100': 0.42705, 'MRR@1000': 0.42731}
+recall_5              	all	0.1058
+recall_10             	all	0.1768
+recall_15             	all	0.2375
+recall_20             	all	0.2879
+recall_30             	all	0.3616
+recall_100            	all	0.5562
+recall_200            	all	0.6683
+recall_500            	all	0.7847
+recall_1000           	all	0.8368
+recall_50             	all	0.4479
+recall_1000           	all	0.8368
+recip_rank            	all	0.9496
+ndcg_cut_10           	all	0.7265
+ndcg_cut_20           	all	0.7174
+recall_5              	all	0.1510
+recall_10             	all	0.2519
+recall_15             	all	0.3155
+recall_20             	all	0.3703
+recall_30             	all	0.4319
+recall_100            	all	0.6175
+recall_200            	all	0.6889
+recall_500            	all	0.7509
+recall_1000           	all	0.7971
+recall_50             	all	0.5217
+recall_1000           	all	0.7971
+recip_rank            	all	0.9302
+ndcg_cut_10           	all	0.7385
+ndcg_cut_20           	all	0.7091

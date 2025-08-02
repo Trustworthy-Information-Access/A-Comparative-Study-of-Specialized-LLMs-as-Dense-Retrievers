@@ -1,0 +1,73 @@
+Qwen2.5-VL-7B-Instruct
+fever
+====== encode corpus
+====== Search the Corpus
+====== Evaluation
+{'NDCG@1': 0.16037, 'NDCG@5': 0.20515, 'NDCG@10': 0.21866, 'NDCG@50': 0.23959, 'NDCG@100': 0.24596, 'NDCG@1000': 0.24596, 'MAP@1': 0.14777, 'MAP@5': 0.18617, 'MAP@10': 0.19177, 'MAP@50': 0.19637, 'MAP@100': 0.19694, 'MAP@1000': 0.19694, 'Recall@1': 0.14777, 'Recall@5': 0.24879, 'Recall@10': 0.2898, 'Recall@50': 0.38162, 'Recall@100': 0.41957, 'Recall@1000': 0.41957, 'MRR@1': 0.16037, 'MRR@5': 0.20007, 'MRR@10': 0.2059, 'MRR@50': 0.21045, 'MRR@100': 0.21104, 'MRR@1000': 0.21104}
+nq
+====== encode corpus
+====== Search the Corpus
+====== Evaluation
+{'NDCG@1': 0.14195, 'NDCG@5': 0.22021, 'NDCG@10': 0.24837, 'NDCG@50': 0.29186, 'NDCG@100': 0.30412, 'NDCG@1000': 0.30412, 'MAP@1': 0.12428, 'MAP@5': 0.18909, 'MAP@10': 0.20134, 'MAP@50': 0.21151, 'MAP@100': 0.21267, 'MAP@1000': 0.21267, 'Recall@1': 0.12428, 'Recall@5': 0.29338, 'Recall@10': 0.3756, 'Recall@50': 0.56069, 'Recall@100': 0.63287, 'Recall@1000': 0.63287, 'MRR@1': 0.14224, 'MRR@5': 0.20784, 'MRR@10': 0.2193, 'MRR@50': 0.22822, 'MRR@100': 0.22921, 'MRR@1000': 0.22921}
+hotpotqa
+====== encode corpus
+====== Search the Corpus
+====== Evaluation
+{'NDCG@1': 0.10804, 'NDCG@5': 0.10211, 'NDCG@10': 0.11241, 'NDCG@50': 0.13088, 'NDCG@100': 0.13793, 'NDCG@1000': 0.13793, 'MAP@1': 0.05402, 'MAP@5': 0.07713, 'MAP@10': 0.08124, 'MAP@50': 0.08524, 'MAP@100': 0.08589, 'MAP@1000': 0.08589, 'Recall@1': 0.05402, 'Recall@5': 0.11101, 'Recall@10': 0.137, 'Recall@50': 0.20567, 'Recall@100': 0.24112, 'Recall@1000': 0.24112, 'MRR@1': 0.10804, 'MRR@5': 0.14232, 'MRR@10': 0.14793, 'MRR@50': 0.15268, 'MRR@100': 0.1534, 'MRR@1000': 0.1534}
+climate-fever
+====== encode corpus
+====== Search the Corpus
+====== Evaluation
+{'NDCG@1': 0.14593, 'NDCG@5': 0.15001, 'NDCG@10': 0.1755, 'NDCG@50': 0.22563, 'NDCG@100': 0.24153, 'NDCG@1000': 0.24153, 'MAP@1': 0.06404, 'MAP@5': 0.10673, 'MAP@10': 0.11746, 'MAP@50': 0.13003, 'MAP@100': 0.13198, 'MAP@1000': 0.13198, 'Recall@1': 0.06404, 'Recall@5': 0.16484, 'Recall@10': 0.22284, 'Recall@50': 0.38685, 'Recall@100': 0.45612, 'Recall@1000': 0.45612, 'MRR@1': 0.14593, 'MRR@5': 0.22329, 'MRR@10': 0.23716, 'MRR@50': 0.24801, 'MRR@100': 0.2489, 'MRR@1000': 0.2489}
+dbpedia-entity
+====== encode corpus
+====== Search the Corpus
+====== Evaluation
+{'NDCG@1': 0.39625, 'NDCG@5': 0.28267, 'NDCG@10': 0.25921, 'NDCG@50': 0.25647, 'NDCG@100': 0.27546, 'NDCG@1000': 0.27269, 'MAP@1': 0.046, 'MAP@5': 0.07857, 'MAP@10': 0.09393, 'MAP@50': 0.12141, 'MAP@100': 0.1279, 'MAP@1000': 0.1279, 'Recall@1': 0.046, 'Recall@5': 0.09801, 'Recall@10': 0.13099, 'Recall@50': 0.2392, 'Recall@100': 0.29522, 'Recall@1000': 0.29522, 'MRR@1': 0.4675, 'MRR@5': 0.55812, 'MRR@10': 0.56413, 'MRR@50': 0.5692, 'MRR@100': 0.56975, 'MRR@1000': 0.56975}
+scifact
+====== encode corpus
+====== Search the Corpus
+====== Evaluation
+{'NDCG@1': 0.41, 'NDCG@5': 0.48291, 'NDCG@10': 0.51207, 'NDCG@50': 0.54293, 'NDCG@100': 0.55203, 'NDCG@1000': 0.55203, 'MAP@1': 0.38178, 'MAP@5': 0.45044, 'MAP@10': 0.46471, 'MAP@50': 0.47166, 'MAP@100': 0.47247, 'MAP@1000': 0.47247, 'Recall@1': 0.38178, 'Recall@5': 0.55872, 'Recall@10': 0.64311, 'Recall@50': 0.78056, 'Recall@100': 0.83667, 'Recall@1000': 0.83667, 'MRR@1': 0.41, 'MRR@5': 0.471, 'MRR@10': 0.48072, 'MRR@50': 0.48685, 'MRR@100': 0.48756, 'MRR@1000': 0.48756}
+webis-touche2020
+====== encode corpus
+====== Search the Corpus
+====== Evaluation
+{'NDCG@1': 0.29592, 'NDCG@5': 0.21141, 'NDCG@10': 0.19189, 'NDCG@50': 0.26504, 'NDCG@100': 0.30928, 'NDCG@1000': 0.30928, 'MAP@1': 0.02332, 'MAP@5': 0.04949, 'MAP@10': 0.06672, 'MAP@50': 0.10659, 'MAP@100': 0.11627, 'MAP@1000': 0.11627, 'Recall@1': 0.02332, 'Recall@5': 0.0746, 'Recall@10': 0.11937, 'Recall@50': 0.30525, 'Recall@100': 0.40524, 'Recall@1000': 0.40524, 'MRR@1': 0.30612, 'MRR@5': 0.41667, 'MRR@10': 0.42891, 'MRR@50': 0.43945, 'MRR@100': 0.44067, 'MRR@1000': 0.44067}
+Qwen2.5-VL-7B-Instruct
+android
+====== Search the Corpus
+====== Evaluation
+english
+====== Search the Corpus
+====== Evaluation
+gis
+====== Search the Corpus
+====== Evaluation
+physics
+====== Search the Corpus
+====== Evaluation
+stats
+====== Search the Corpus
+====== Evaluation
+unix
+====== Search the Corpus
+====== Evaluation
+wordpress
+====== Search the Corpus
+====== Evaluation
+gaming
+====== Search the Corpus
+====== Evaluation
+mathematica
+====== Search the Corpus
+====== Evaluation
+programmers
+====== Search the Corpus
+====== Evaluation
+tex
+====== Search the Corpus
+====== Evaluation
+webmasters
+====== Search the Corpus
+====== Evaluation
