@@ -18,7 +18,7 @@ Take Qwen2.5-7b-instruct as an example:
 ```
 sh SFT/tevatron-main/src/Qwen2.5-7b-instruct.sh 
 ```
-All the checkpoints of the trained LLM-based dense retrievers on MS MARCO are released on [Specialized_LLMs_as_Dense_Retrievers](https://huggingface.co/hengranZhang/Specialized_LLMs_as_Dense_Retrievers). 
+All the checkpoints of the trained specialized LLM-based dense retrievers on MS MARCO are released on [Specialized_LLMs_as_Dense_Retrievers](https://huggingface.co/hengranZhang/Specialized_LLMs_as_Dense_Retrievers). 
 
 
 
